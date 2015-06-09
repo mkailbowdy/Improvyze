@@ -1,0 +1,711 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9B45F7961ADE100200AF51B1 /* MQMInstructionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B45F7941ADE100200AF51B1 /* MQMInstructionsViewController.m */; };
+		9B45F7971ADE100200AF51B1 /* MQMInstructionsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9B45F7951ADE100200AF51B1 /* MQMInstructionsViewController.xib */; };
+		9B55510A1AC9C8A400ECFB5B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5551091AC9C8A400ECFB5B /* main.m */; };
+		9B5551151AC9C8A400ECFB5B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B5551141AC9C8A400ECFB5B /* Images.xcassets */; };
+		9B5551241AC9C8A400ECFB5B /* ImprovyzeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5551231AC9C8A400ECFB5B /* ImprovyzeTests.m */; };
+		9B5551851AC9CB9D00ECFB5B /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B5551841AC9CB9D00ECFB5B /* StoreKit.framework */; };
+		9B5551871AC9CBA300ECFB5B /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B5551861AC9CBA300ECFB5B /* iAd.framework */; };
+		9B5551891AC9CBAC00ECFB5B /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B5551881AC9CBAC00ECFB5B /* AudioToolbox.framework */; };
+		9B55518B1AC9CBB300ECFB5B /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B55518A1AC9CBB300ECFB5B /* MessageUI.framework */; };
+		9B55518D1AC9CBBB00ECFB5B /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B55518C1AC9CBBB00ECFB5B /* AVFoundation.framework */; };
+		9B5551B31AC9CF1F00ECFB5B /* Archive@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5551A71AC9CF1F00ECFB5B /* Archive@2x.png */; };
+		9B5551B61AC9CF1F00ECFB5B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5551AA1AC9CF1F00ECFB5B /* Default-568h@2x.png */; };
+		9B5551B81AC9CF1F00ECFB5B /* PauseFilled@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5551AC1AC9CF1F00ECFB5B /* PauseFilled@2x.png */; };
+		9B5551B91AC9CF1F00ECFB5B /* PlayFilled@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5551AD1AC9CF1F00ECFB5B /* PlayFilled@2x.png */; };
+		9B5551BA1AC9CF1F00ECFB5B /* Podium With Speaker-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5551AE1AC9CF1F00ECFB5B /* Podium With Speaker-50.png */; };
+		9B5551BB1AC9CF1F00ECFB5B /* podium.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5551AF1AC9CF1F00ECFB5B /* podium.png */; };
+		9B5551BC1AC9CF1F00ECFB5B /* Podium@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5551B01AC9CF1F00ECFB5B /* Podium@2x.png */; };
+		9B5551BD1AC9CF1F00ECFB5B /* Update@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5551B11AC9CF1F00ECFB5B /* Update@2x.png */; };
+		9B5551BE1AC9CF1F00ECFB5B /* Yoga@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5551B21AC9CF1F00ECFB5B /* Yoga@2x.png */; };
+		9B6190F71AE04A440019AF25 /* MQMInformationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B6190F51AE04A440019AF25 /* MQMInformationViewController.m */; };
+		9B6190F81AE04A440019AF25 /* MQMInformationViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9B6190F61AE04A440019AF25 /* MQMInformationViewController.xib */; };
+		9B6190FD1AE063380019AF25 /* RFRateMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B6190FA1AE063380019AF25 /* RFRateMe.m */; };
+		9B6190FE1AE063380019AF25 /* UIAlertView+NSCookbook.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B6190FC1AE063380019AF25 /* UIAlertView+NSCookbook.m */; };
+		9B638BB81AD44B86001ED721 /* quotes2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9B638BB61AD44B86001ED721 /* quotes2.plist */; };
+		9B638BB91AD44B86001ED721 /* quotes3.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9B638BB71AD44B86001ED721 /* quotes3.plist */; };
+		9B638BBB1AD457AB001ED721 /* quotesSample.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9B638BBA1AD457AB001ED721 /* quotesSample.plist */; };
+		9B638BBF1AD465FD001ED721 /* Shopping@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B638BBE1AD465FD001ED721 /* Shopping@2x.png */; };
+		9BD399B81ADF3DE7004B2494 /* recordings.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9BD399B71ADF3DE7004B2494 /* recordings.plist */; };
+		9BD399BB1ADF3E43004B2494 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399BA1ADF3E43004B2494 /* AppDelegate.m */; };
+		9BD399BE1ADF3E5C004B2494 /* MQMButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399BD1ADF3E5C004B2494 /* MQMButton.m */; };
+		9BD399C11ADF3E89004B2494 /* MQMChooseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399C01ADF3E89004B2494 /* MQMChooseViewController.m */; };
+		9BD399C31ADF3EA7004B2494 /* MQMChooseViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BD399C21ADF3EA7004B2494 /* MQMChooseViewController.xib */; };
+		9BD399C71ADF3EC5004B2494 /* MQMPlayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399C51ADF3EC5004B2494 /* MQMPlayViewController.m */; };
+		9BD399C81ADF3EC5004B2494 /* MQMPlayViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BD399C61ADF3EC5004B2494 /* MQMPlayViewController.xib */; };
+		9BD399CC1ADF3EE9004B2494 /* MQMComptetitionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399CA1ADF3EE9004B2494 /* MQMComptetitionViewController.m */; };
+		9BD399CD1ADF3EE9004B2494 /* MQMComptetitionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BD399CB1ADF3EE9004B2494 /* MQMComptetitionViewController.xib */; };
+		9BD399D11ADF3F05004B2494 /* MQMChooseCompViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399CF1ADF3F05004B2494 /* MQMChooseCompViewController.m */; };
+		9BD399D21ADF3F05004B2494 /* MQMChooseCompViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BD399D01ADF3F05004B2494 /* MQMChooseCompViewController.xib */; };
+		9BD399D81ADF3F50004B2494 /* MQMRecordingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399D41ADF3F50004B2494 /* MQMRecordingsViewController.m */; };
+		9BD399D91ADF3F50004B2494 /* MQMReviewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399D61ADF3F50004B2494 /* MQMReviewViewController.m */; };
+		9BD399DA1ADF3F50004B2494 /* MQMReviewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BD399D71ADF3F50004B2494 /* MQMReviewViewController.xib */; };
+		9BD399DC1ADF3F6D004B2494 /* quotes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9BD399DB1ADF3F6D004B2494 /* quotes.plist */; };
+		9BD399E11ADF3FB9004B2494 /* MQMQuotesStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399DE1ADF3FB9004B2494 /* MQMQuotesStore.m */; };
+		9BD399E21ADF3FB9004B2494 /* MQMRecordingsStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399E01ADF3FB9004B2494 /* MQMRecordingsStore.m */; };
+		9BD399E51ADF3FD6004B2494 /* MZTimerLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399E41ADF3FD6004B2494 /* MZTimerLabel.m */; };
+		9BD399E81ADF407A004B2494 /* MQMPurchaseOneTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399E71ADF407A004B2494 /* MQMPurchaseOneTableViewController.m */; };
+		9BD399EB1ADF40A8004B2494 /* IAPHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399EA1ADF40A8004B2494 /* IAPHelper.m */; };
+		9BD399EE1ADF40B3004B2494 /* MQMIAPHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD399ED1ADF40B3004B2494 /* MQMIAPHelper.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9B55511E1AC9C8A400ECFB5B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9B5550FC1AC9C8A400ECFB5B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9B5551031AC9C8A400ECFB5B;
+			remoteInfo = Improvyze;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9B45F7931ADE100200AF51B1 /* MQMInstructionsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQMInstructionsViewController.h; sourceTree = "<group>"; };
+		9B45F7941ADE100200AF51B1 /* MQMInstructionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMInstructionsViewController.m; sourceTree = "<group>"; };
+		9B45F7951ADE100200AF51B1 /* MQMInstructionsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MQMInstructionsViewController.xib; sourceTree = "<group>"; };
+		9B5551041AC9C8A400ECFB5B /* Improvyze.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Improvyze.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B5551081AC9C8A400ECFB5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B5551091AC9C8A400ECFB5B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9B5551141AC9C8A400ECFB5B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		9B55511D1AC9C8A400ECFB5B /* ImprovyzeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImprovyzeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B5551221AC9C8A400ECFB5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B5551231AC9C8A400ECFB5B /* ImprovyzeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImprovyzeTests.m; sourceTree = "<group>"; };
+		9B5551841AC9CB9D00ECFB5B /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		9B5551861AC9CBA300ECFB5B /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		9B5551881AC9CBAC00ECFB5B /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		9B55518A1AC9CBB300ECFB5B /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		9B55518C1AC9CBBB00ECFB5B /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		9B5551A71AC9CF1F00ECFB5B /* Archive@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Archive@2x.png"; path = "Images/Archive@2x.png"; sourceTree = SOURCE_ROOT; };
+		9B5551AA1AC9CF1F00ECFB5B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Images/Default-568h@2x.png"; sourceTree = SOURCE_ROOT; };
+		9B5551AC1AC9CF1F00ECFB5B /* PauseFilled@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "PauseFilled@2x.png"; path = "Images/PauseFilled@2x.png"; sourceTree = SOURCE_ROOT; };
+		9B5551AD1AC9CF1F00ECFB5B /* PlayFilled@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "PlayFilled@2x.png"; path = "Images/PlayFilled@2x.png"; sourceTree = SOURCE_ROOT; };
+		9B5551AE1AC9CF1F00ECFB5B /* Podium With Speaker-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Podium With Speaker-50.png"; path = "Images/Podium With Speaker-50.png"; sourceTree = SOURCE_ROOT; };
+		9B5551AF1AC9CF1F00ECFB5B /* podium.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = podium.png; path = Images/podium.png; sourceTree = SOURCE_ROOT; };
+		9B5551B01AC9CF1F00ECFB5B /* Podium@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Podium@2x.png"; path = "Images/Podium@2x.png"; sourceTree = SOURCE_ROOT; };
+		9B5551B11AC9CF1F00ECFB5B /* Update@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Update@2x.png"; path = "Images/Update@2x.png"; sourceTree = SOURCE_ROOT; };
+		9B5551B21AC9CF1F00ECFB5B /* Yoga@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Yoga@2x.png"; path = "Images/Yoga@2x.png"; sourceTree = SOURCE_ROOT; };
+		9B6190F41AE04A440019AF25 /* MQMInformationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQMInformationViewController.h; sourceTree = "<group>"; };
+		9B6190F51AE04A440019AF25 /* MQMInformationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMInformationViewController.m; sourceTree = "<group>"; };
+		9B6190F61AE04A440019AF25 /* MQMInformationViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MQMInformationViewController.xib; sourceTree = "<group>"; };
+		9B6190F91AE063380019AF25 /* RFRateMe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RFRateMe.h; sourceTree = "<group>"; };
+		9B6190FA1AE063380019AF25 /* RFRateMe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RFRateMe.m; sourceTree = "<group>"; };
+		9B6190FB1AE063380019AF25 /* UIAlertView+NSCookbook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+NSCookbook.h"; sourceTree = "<group>"; };
+		9B6190FC1AE063380019AF25 /* UIAlertView+NSCookbook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertView+NSCookbook.m"; sourceTree = "<group>"; };
+		9B638BB61AD44B86001ED721 /* quotes2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = quotes2.plist; sourceTree = SOURCE_ROOT; };
+		9B638BB71AD44B86001ED721 /* quotes3.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = quotes3.plist; sourceTree = SOURCE_ROOT; };
+		9B638BBA1AD457AB001ED721 /* quotesSample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = quotesSample.plist; sourceTree = SOURCE_ROOT; };
+		9B638BBE1AD465FD001ED721 /* Shopping@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Shopping@2x.png"; path = "Images/Shopping@2x.png"; sourceTree = SOURCE_ROOT; };
+		9BD399B71ADF3DE7004B2494 /* recordings.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = recordings.plist; sourceTree = "<group>"; };
+		9BD399B91ADF3E43004B2494 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		9BD399BA1ADF3E43004B2494 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		9BD399BC1ADF3E5C004B2494 /* MQMButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQMButton.h; sourceTree = "<group>"; };
+		9BD399BD1ADF3E5C004B2494 /* MQMButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMButton.m; sourceTree = "<group>"; };
+		9BD399BF1ADF3E89004B2494 /* MQMChooseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQMChooseViewController.h; sourceTree = "<group>"; };
+		9BD399C01ADF3E89004B2494 /* MQMChooseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMChooseViewController.m; sourceTree = "<group>"; };
+		9BD399C21ADF3EA7004B2494 /* MQMChooseViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MQMChooseViewController.xib; sourceTree = "<group>"; };
+		9BD399C41ADF3EC5004B2494 /* MQMPlayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQMPlayViewController.h; sourceTree = "<group>"; };
+		9BD399C51ADF3EC5004B2494 /* MQMPlayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMPlayViewController.m; sourceTree = "<group>"; };
+		9BD399C61ADF3EC5004B2494 /* MQMPlayViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MQMPlayViewController.xib; sourceTree = "<group>"; };
+		9BD399C91ADF3EE9004B2494 /* MQMComptetitionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQMComptetitionViewController.h; sourceTree = "<group>"; };
+		9BD399CA1ADF3EE9004B2494 /* MQMComptetitionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMComptetitionViewController.m; sourceTree = "<group>"; };
+		9BD399CB1ADF3EE9004B2494 /* MQMComptetitionViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MQMComptetitionViewController.xib; sourceTree = "<group>"; };
+		9BD399CE1ADF3F05004B2494 /* MQMChooseCompViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQMChooseCompViewController.h; sourceTree = "<group>"; };
+		9BD399CF1ADF3F05004B2494 /* MQMChooseCompViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMChooseCompViewController.m; sourceTree = "<group>"; };
+		9BD399D01ADF3F05004B2494 /* MQMChooseCompViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MQMChooseCompViewController.xib; sourceTree = "<group>"; };
+		9BD399D31ADF3F50004B2494 /* MQMRecordingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQMRecordingsViewController.h; sourceTree = "<group>"; };
+		9BD399D41ADF3F50004B2494 /* MQMRecordingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMRecordingsViewController.m; sourceTree = "<group>"; };
+		9BD399D51ADF3F50004B2494 /* MQMReviewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQMReviewViewController.h; sourceTree = "<group>"; };
+		9BD399D61ADF3F50004B2494 /* MQMReviewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMReviewViewController.m; sourceTree = "<group>"; };
+		9BD399D71ADF3F50004B2494 /* MQMReviewViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MQMReviewViewController.xib; sourceTree = "<group>"; };
+		9BD399DB1ADF3F6D004B2494 /* quotes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = quotes.plist; sourceTree = "<group>"; };
+		9BD399DD1ADF3FB9004B2494 /* MQMQuotesStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQMQuotesStore.h; sourceTree = "<group>"; };
+		9BD399DE1ADF3FB9004B2494 /* MQMQuotesStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMQuotesStore.m; sourceTree = "<group>"; };
+		9BD399DF1ADF3FB9004B2494 /* MQMRecordingsStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQMRecordingsStore.h; sourceTree = "<group>"; };
+		9BD399E01ADF3FB9004B2494 /* MQMRecordingsStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMRecordingsStore.m; sourceTree = "<group>"; };
+		9BD399E31ADF3FD6004B2494 /* MZTimerLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZTimerLabel.h; sourceTree = "<group>"; };
+		9BD399E41ADF3FD6004B2494 /* MZTimerLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZTimerLabel.m; sourceTree = "<group>"; };
+		9BD399E61ADF407A004B2494 /* MQMPurchaseOneTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MQMPurchaseOneTableViewController.h; path = Improvyze/MQMPurchaseOneTableViewController.h; sourceTree = "<group>"; };
+		9BD399E71ADF407A004B2494 /* MQMPurchaseOneTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MQMPurchaseOneTableViewController.m; path = Improvyze/MQMPurchaseOneTableViewController.m; sourceTree = "<group>"; };
+		9BD399E91ADF40A8004B2494 /* IAPHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = IAPHelper.h; path = Improvyze/IAPHelper.h; sourceTree = "<group>"; };
+		9BD399EA1ADF40A8004B2494 /* IAPHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = IAPHelper.m; path = Improvyze/IAPHelper.m; sourceTree = "<group>"; };
+		9BD399EC1ADF40B3004B2494 /* MQMIAPHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MQMIAPHelper.h; path = Improvyze/MQMIAPHelper.h; sourceTree = "<group>"; };
+		9BD399ED1ADF40B3004B2494 /* MQMIAPHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MQMIAPHelper.m; path = Improvyze/MQMIAPHelper.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9B5551011AC9C8A400ECFB5B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9B55518D1AC9CBBB00ECFB5B /* AVFoundation.framework in Frameworks */,
+				9B55518B1AC9CBB300ECFB5B /* MessageUI.framework in Frameworks */,
+				9B5551891AC9CBAC00ECFB5B /* AudioToolbox.framework in Frameworks */,
+				9B5551871AC9CBA300ECFB5B /* iAd.framework in Frameworks */,
+				9B5551851AC9CB9D00ECFB5B /* StoreKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9B55511A1AC9C8A400ECFB5B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9B5550FB1AC9C8A400ECFB5B = {
+			isa = PBXGroup;
+			children = (
+				9B5551061AC9C8A400ECFB5B /* Improvyze */,
+				9B55518E1AC9CBC100ECFB5B /* Frameworks */,
+				9B5551201AC9C8A400ECFB5B /* ImprovyzeTests */,
+				9B5551051AC9C8A400ECFB5B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9B5551051AC9C8A400ECFB5B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9B5551041AC9C8A400ECFB5B /* Improvyze.app */,
+				9B55511D1AC9C8A400ECFB5B /* ImprovyzeTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9B5551061AC9C8A400ECFB5B /* Improvyze */ = {
+			isa = PBXGroup;
+			children = (
+				9BD399B91ADF3E43004B2494 /* AppDelegate.h */,
+				9BD399BA1ADF3E43004B2494 /* AppDelegate.m */,
+				9B5551671AC9CA3100ECFB5B /* View Controllers */,
+				9B5DF7BF1ACA2A99000B46FE /* In-App Purchase classes */,
+				9B5551661AC9C9E500ECFB5B /* Data Storage */,
+				9B5551691AC9CADA00ECFB5B /* Timer Class */,
+				9B55516A1AC9CAFC00ECFB5B /* Resources */,
+				9B5551071AC9C8A400ECFB5B /* Supporting Files */,
+				9B5551141AC9C8A400ECFB5B /* Images.xcassets */,
+			);
+			path = Improvyze;
+			sourceTree = "<group>";
+		};
+		9B5551071AC9C8A400ECFB5B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9B5551081AC9C8A400ECFB5B /* Info.plist */,
+				9B5551091AC9C8A400ECFB5B /* main.m */,
+				9BD399DB1ADF3F6D004B2494 /* quotes.plist */,
+				9B638BB61AD44B86001ED721 /* quotes2.plist */,
+				9B638BB71AD44B86001ED721 /* quotes3.plist */,
+				9B638BBA1AD457AB001ED721 /* quotesSample.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9B5551201AC9C8A400ECFB5B /* ImprovyzeTests */ = {
+			isa = PBXGroup;
+			children = (
+				9B5551231AC9C8A400ECFB5B /* ImprovyzeTests.m */,
+				9B5551211AC9C8A400ECFB5B /* Supporting Files */,
+			);
+			path = ImprovyzeTests;
+			sourceTree = "<group>";
+		};
+		9B5551211AC9C8A400ECFB5B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9B5551221AC9C8A400ECFB5B /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9B5551661AC9C9E500ECFB5B /* Data Storage */ = {
+			isa = PBXGroup;
+			children = (
+				9BD399DD1ADF3FB9004B2494 /* MQMQuotesStore.h */,
+				9BD399DE1ADF3FB9004B2494 /* MQMQuotesStore.m */,
+				9BD399DF1ADF3FB9004B2494 /* MQMRecordingsStore.h */,
+				9BD399E01ADF3FB9004B2494 /* MQMRecordingsStore.m */,
+			);
+			name = "Data Storage";
+			sourceTree = "<group>";
+		};
+		9B5551671AC9CA3100ECFB5B /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				9BD399BC1ADF3E5C004B2494 /* MQMButton.h */,
+				9BD399BD1ADF3E5C004B2494 /* MQMButton.m */,
+				9B6190F91AE063380019AF25 /* RFRateMe.h */,
+				9B6190FA1AE063380019AF25 /* RFRateMe.m */,
+				9B6190FB1AE063380019AF25 /* UIAlertView+NSCookbook.h */,
+				9B6190FC1AE063380019AF25 /* UIAlertView+NSCookbook.m */,
+				9B638BBC1AD46273001ED721 /* Practice VC */,
+				9B5551681AC9CA5600ECFB5B /* Competition VC */,
+				9B638BBD1AD462F0001ED721 /* Recordings VC */,
+				9BF7735D1ACA5829003DD67C /* Purchase Store VC */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		9B5551681AC9CA5600ECFB5B /* Competition VC */ = {
+			isa = PBXGroup;
+			children = (
+				9BD399C91ADF3EE9004B2494 /* MQMComptetitionViewController.h */,
+				9BD399CA1ADF3EE9004B2494 /* MQMComptetitionViewController.m */,
+				9BD399CB1ADF3EE9004B2494 /* MQMComptetitionViewController.xib */,
+				9B45F7931ADE100200AF51B1 /* MQMInstructionsViewController.h */,
+				9B45F7941ADE100200AF51B1 /* MQMInstructionsViewController.m */,
+				9B45F7951ADE100200AF51B1 /* MQMInstructionsViewController.xib */,
+				9BD399CE1ADF3F05004B2494 /* MQMChooseCompViewController.h */,
+				9BD399CF1ADF3F05004B2494 /* MQMChooseCompViewController.m */,
+				9BD399D01ADF3F05004B2494 /* MQMChooseCompViewController.xib */,
+			);
+			name = "Competition VC";
+			sourceTree = "<group>";
+		};
+		9B5551691AC9CADA00ECFB5B /* Timer Class */ = {
+			isa = PBXGroup;
+			children = (
+				9BD399E31ADF3FD6004B2494 /* MZTimerLabel.h */,
+				9BD399E41ADF3FD6004B2494 /* MZTimerLabel.m */,
+			);
+			name = "Timer Class";
+			sourceTree = "<group>";
+		};
+		9B55516A1AC9CAFC00ECFB5B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9BD399B71ADF3DE7004B2494 /* recordings.plist */,
+				9B5551831AC9CB7100ECFB5B /* Images */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		9B5551831AC9CB7100ECFB5B /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				9B5551A71AC9CF1F00ECFB5B /* Archive@2x.png */,
+				9B5551AA1AC9CF1F00ECFB5B /* Default-568h@2x.png */,
+				9B5551AC1AC9CF1F00ECFB5B /* PauseFilled@2x.png */,
+				9B5551AD1AC9CF1F00ECFB5B /* PlayFilled@2x.png */,
+				9B5551AE1AC9CF1F00ECFB5B /* Podium With Speaker-50.png */,
+				9B5551AF1AC9CF1F00ECFB5B /* podium.png */,
+				9B5551B01AC9CF1F00ECFB5B /* Podium@2x.png */,
+				9B638BBE1AD465FD001ED721 /* Shopping@2x.png */,
+				9B5551B11AC9CF1F00ECFB5B /* Update@2x.png */,
+				9B5551B21AC9CF1F00ECFB5B /* Yoga@2x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		9B55518E1AC9CBC100ECFB5B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9B55518C1AC9CBBB00ECFB5B /* AVFoundation.framework */,
+				9B55518A1AC9CBB300ECFB5B /* MessageUI.framework */,
+				9B5551881AC9CBAC00ECFB5B /* AudioToolbox.framework */,
+				9B5551861AC9CBA300ECFB5B /* iAd.framework */,
+				9B5551841AC9CB9D00ECFB5B /* StoreKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9B5DF7BF1ACA2A99000B46FE /* In-App Purchase classes */ = {
+			isa = PBXGroup;
+			children = (
+				9BD399E91ADF40A8004B2494 /* IAPHelper.h */,
+				9BD399EA1ADF40A8004B2494 /* IAPHelper.m */,
+				9BD399EC1ADF40B3004B2494 /* MQMIAPHelper.h */,
+				9BD399ED1ADF40B3004B2494 /* MQMIAPHelper.m */,
+			);
+			name = "In-App Purchase classes";
+			path = ..;
+			sourceTree = "<group>";
+		};
+		9B638BBC1AD46273001ED721 /* Practice VC */ = {
+			isa = PBXGroup;
+			children = (
+				9BD399BF1ADF3E89004B2494 /* MQMChooseViewController.h */,
+				9BD399C01ADF3E89004B2494 /* MQMChooseViewController.m */,
+				9BD399C21ADF3EA7004B2494 /* MQMChooseViewController.xib */,
+				9BD399C41ADF3EC5004B2494 /* MQMPlayViewController.h */,
+				9BD399C51ADF3EC5004B2494 /* MQMPlayViewController.m */,
+				9BD399C61ADF3EC5004B2494 /* MQMPlayViewController.xib */,
+				9B6190F41AE04A440019AF25 /* MQMInformationViewController.h */,
+				9B6190F51AE04A440019AF25 /* MQMInformationViewController.m */,
+				9B6190F61AE04A440019AF25 /* MQMInformationViewController.xib */,
+			);
+			name = "Practice VC";
+			sourceTree = "<group>";
+		};
+		9B638BBD1AD462F0001ED721 /* Recordings VC */ = {
+			isa = PBXGroup;
+			children = (
+				9BD399D31ADF3F50004B2494 /* MQMRecordingsViewController.h */,
+				9BD399D41ADF3F50004B2494 /* MQMRecordingsViewController.m */,
+				9BD399D51ADF3F50004B2494 /* MQMReviewViewController.h */,
+				9BD399D61ADF3F50004B2494 /* MQMReviewViewController.m */,
+				9BD399D71ADF3F50004B2494 /* MQMReviewViewController.xib */,
+			);
+			name = "Recordings VC";
+			sourceTree = "<group>";
+		};
+		9BF7735D1ACA5829003DD67C /* Purchase Store VC */ = {
+			isa = PBXGroup;
+			children = (
+				9BD399E61ADF407A004B2494 /* MQMPurchaseOneTableViewController.h */,
+				9BD399E71ADF407A004B2494 /* MQMPurchaseOneTableViewController.m */,
+			);
+			name = "Purchase Store VC";
+			path = ..;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9B5551031AC9C8A400ECFB5B /* Improvyze */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9B5551271AC9C8A400ECFB5B /* Build configuration list for PBXNativeTarget "Improvyze" */;
+			buildPhases = (
+				9B5551001AC9C8A400ECFB5B /* Sources */,
+				9B5551011AC9C8A400ECFB5B /* Frameworks */,
+				9B5551021AC9C8A400ECFB5B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Improvyze;
+			productName = Improvyze;
+			productReference = 9B5551041AC9C8A400ECFB5B /* Improvyze.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9B55511C1AC9C8A400ECFB5B /* ImprovyzeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9B55512A1AC9C8A400ECFB5B /* Build configuration list for PBXNativeTarget "ImprovyzeTests" */;
+			buildPhases = (
+				9B5551191AC9C8A400ECFB5B /* Sources */,
+				9B55511A1AC9C8A400ECFB5B /* Frameworks */,
+				9B55511B1AC9C8A400ECFB5B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9B55511F1AC9C8A400ECFB5B /* PBXTargetDependency */,
+			);
+			name = ImprovyzeTests;
+			productName = ImprovyzeTests;
+			productReference = 9B55511D1AC9C8A400ECFB5B /* ImprovyzeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9B5550FC1AC9C8A400ECFB5B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = "Myhkail Mendoza";
+				TargetAttributes = {
+					9B5551031AC9C8A400ECFB5B = {
+						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 78KMUJP3A6;
+					};
+					9B55511C1AC9C8A400ECFB5B = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 9B5551031AC9C8A400ECFB5B;
+					};
+				};
+			};
+			buildConfigurationList = 9B5550FF1AC9C8A400ECFB5B /* Build configuration list for PBXProject "Improvyze" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9B5550FB1AC9C8A400ECFB5B;
+			productRefGroup = 9B5551051AC9C8A400ECFB5B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9B5551031AC9C8A400ECFB5B /* Improvyze */,
+				9B55511C1AC9C8A400ECFB5B /* ImprovyzeTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9B5551021AC9C8A400ECFB5B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BD399DA1ADF3F50004B2494 /* MQMReviewViewController.xib in Resources */,
+				9B5551BE1AC9CF1F00ECFB5B /* Yoga@2x.png in Resources */,
+				9B5551BB1AC9CF1F00ECFB5B /* podium.png in Resources */,
+				9BD399D21ADF3F05004B2494 /* MQMChooseCompViewController.xib in Resources */,
+				9BD399C31ADF3EA7004B2494 /* MQMChooseViewController.xib in Resources */,
+				9BD399C81ADF3EC5004B2494 /* MQMPlayViewController.xib in Resources */,
+				9B5551B81AC9CF1F00ECFB5B /* PauseFilled@2x.png in Resources */,
+				9BD399B81ADF3DE7004B2494 /* recordings.plist in Resources */,
+				9B5551BA1AC9CF1F00ECFB5B /* Podium With Speaker-50.png in Resources */,
+				9B5551B61AC9CF1F00ECFB5B /* Default-568h@2x.png in Resources */,
+				9B5551BC1AC9CF1F00ECFB5B /* Podium@2x.png in Resources */,
+				9BD399CD1ADF3EE9004B2494 /* MQMComptetitionViewController.xib in Resources */,
+				9B638BB81AD44B86001ED721 /* quotes2.plist in Resources */,
+				9B5551151AC9C8A400ECFB5B /* Images.xcassets in Resources */,
+				9B5551B31AC9CF1F00ECFB5B /* Archive@2x.png in Resources */,
+				9B6190F81AE04A440019AF25 /* MQMInformationViewController.xib in Resources */,
+				9B638BBB1AD457AB001ED721 /* quotesSample.plist in Resources */,
+				9B638BBF1AD465FD001ED721 /* Shopping@2x.png in Resources */,
+				9BD399DC1ADF3F6D004B2494 /* quotes.plist in Resources */,
+				9B638BB91AD44B86001ED721 /* quotes3.plist in Resources */,
+				9B5551B91AC9CF1F00ECFB5B /* PlayFilled@2x.png in Resources */,
+				9B5551BD1AC9CF1F00ECFB5B /* Update@2x.png in Resources */,
+				9B45F7971ADE100200AF51B1 /* MQMInstructionsViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9B55511B1AC9C8A400ECFB5B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9B5551001AC9C8A400ECFB5B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BD399D91ADF3F50004B2494 /* MQMReviewViewController.m in Sources */,
+				9BD399E51ADF3FD6004B2494 /* MZTimerLabel.m in Sources */,
+				9BD399D81ADF3F50004B2494 /* MQMRecordingsViewController.m in Sources */,
+				9BD399E11ADF3FB9004B2494 /* MQMQuotesStore.m in Sources */,
+				9B55510A1AC9C8A400ECFB5B /* main.m in Sources */,
+				9B45F7961ADE100200AF51B1 /* MQMInstructionsViewController.m in Sources */,
+				9B6190F71AE04A440019AF25 /* MQMInformationViewController.m in Sources */,
+				9BD399E21ADF3FB9004B2494 /* MQMRecordingsStore.m in Sources */,
+				9BD399CC1ADF3EE9004B2494 /* MQMComptetitionViewController.m in Sources */,
+				9B6190FD1AE063380019AF25 /* RFRateMe.m in Sources */,
+				9BD399D11ADF3F05004B2494 /* MQMChooseCompViewController.m in Sources */,
+				9BD399EE1ADF40B3004B2494 /* MQMIAPHelper.m in Sources */,
+				9BD399EB1ADF40A8004B2494 /* IAPHelper.m in Sources */,
+				9BD399BE1ADF3E5C004B2494 /* MQMButton.m in Sources */,
+				9BD399C71ADF3EC5004B2494 /* MQMPlayViewController.m in Sources */,
+				9B6190FE1AE063380019AF25 /* UIAlertView+NSCookbook.m in Sources */,
+				9BD399E81ADF407A004B2494 /* MQMPurchaseOneTableViewController.m in Sources */,
+				9BD399C11ADF3E89004B2494 /* MQMChooseViewController.m in Sources */,
+				9BD399BB1ADF3E43004B2494 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9B5551191AC9C8A400ECFB5B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9B5551241AC9C8A400ECFB5B /* ImprovyzeTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9B55511F1AC9C8A400ECFB5B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9B5551031AC9C8A400ECFB5B /* Improvyze */;
+			targetProxy = 9B55511E1AC9C8A400ECFB5B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		9B5551251AC9C8A400ECFB5B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9B5551261AC9C8A400ECFB5B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9B5551281AC9C8A400ECFB5B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = Improvyze/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		9B5551291AC9C8A400ECFB5B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = Improvyze/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		9B55512B1AC9C8A400ECFB5B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = ImprovyzeTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Improvyze.app/Improvyze";
+			};
+			name = Debug;
+		};
+		9B55512C1AC9C8A400ECFB5B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = ImprovyzeTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Improvyze.app/Improvyze";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9B5550FF1AC9C8A400ECFB5B /* Build configuration list for PBXProject "Improvyze" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9B5551251AC9C8A400ECFB5B /* Debug */,
+				9B5551261AC9C8A400ECFB5B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9B5551271AC9C8A400ECFB5B /* Build configuration list for PBXNativeTarget "Improvyze" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9B5551281AC9C8A400ECFB5B /* Debug */,
+				9B5551291AC9C8A400ECFB5B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9B55512A1AC9C8A400ECFB5B /* Build configuration list for PBXNativeTarget "ImprovyzeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9B55512B1AC9C8A400ECFB5B /* Debug */,
+				9B55512C1AC9C8A400ECFB5B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9B5550FC1AC9C8A400ECFB5B /* Project object */;
+}

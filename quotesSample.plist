@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>author</key>
+		<string>Tim Berners-Lee</string>
+		<key>quote</key>
+		<string>You affect the world by what you browse.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Louise J. Kaplan</string>
+		<key>quote</key>
+		<string>Adolescence is the conjugator of childhood and adulthood.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Flip Wilson</string>
+		<key>quote</key>
+		<string>You can't expect to hit the jackpot if you don't put a few nickels in the machine.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Desiderius Erasmus</string>
+		<key>quote</key>
+		<string>It is the chiefest point of happiness that a man is willing to be what he is.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jean Ingelow</string>
+		<key>quote</key>
+		<string>When sparrows build and the leaves break forth, My old sorrow wakes and cries.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Lin Yutang</string>
+		<key>quote</key>
+		<string>No one realizes how beautiful it is to travel until he comes home and rests his head on his old, familiar pillow.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Mahatma Gandhi</string>
+		<key>quote</key>
+		<string>Strength does not come from physical capacity. It comes from an indomitable will.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Saint Augustine</string>
+		<key>quote</key>
+		<string>The world is a book, and those who do not travel read only a page.</string>
+	</dict>
+
+	<dict>
+		<key>author</key>
+		<string>Albert Einstein</string>
+		<key>quote</key>
+		<string>Whoever is careless with the truth in small matters cannot be trusted with important matters.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Robert Green Ingersoll</string>
+		<key>quote</key>
+		<string>The greatest test of courage on earth is to bear defeat without losing heart.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>J. K. Rowling</string>
+		<key>quote</key>
+		<string>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Nelson Mandela</string>
+		<key>quote</key>
+		<string>Courageous people do not fear forgiving, for the sake of peace.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Amelia Earhart</string>
+		<key>quote</key>
+		<string>Courage is the price that life exacts for granting peace.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Walt Disney</string>
+		<key>quote</key>
+		<string>All our dreams can come true, if we have the courage to pursue them.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>A. P. J. Abdul Kalam</string>
+		<key>quote</key>
+		<string>You have to dream before your dreams can come true.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Aristotle</string>
+		<key>quote</key>
+		<string>It is the mark of an educated mind to be able to entertain a thought without accepting it.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Theodore Roosevelt</string>
+		<key>quote</key>
+		<string>Nobody cares how much you know, until they know how much you care.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Friedrich Nietzsche</string>
+		<key>quote</key>
+		<string>Those who cannot understand how to put their thoughts on ice should not enter into the heat of debate.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Michael Jordan</string>
+		<key>quote</key>
+		<string>I've failed over and over and over again in my life and that is why I succeed.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henry Ford</string>
+		<key>quote</key>
+		<string>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>IMPORTANT!! THIS ENTRY MUST BE LAST</string>
+		<key>quote</key>
+		<string>This quote will not show. Serves as a filler for our shuffle code. MAKE SURE THIS IS THE LAST ENTRY</string>
+	</dict>
+</array>
+</plist>

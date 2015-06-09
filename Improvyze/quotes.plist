@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>author</key>
+		<string>Forest Gump</string>
+		<key>quote</key>
+		<string>Life is like a box of chocolates.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Myhkail Mendoza</string>
+		<key>quote</key>
+		<string>You've got to pay the price, if you want to look nice.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ariana Grande</string>
+		<key>quote</key>
+		<string>I only want to die alive, never by the hands of a broken heart.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Richard Stallman</string>
+		<key>quote</key>
+		<string>With paper printed books, you have certain freedoms. You can acquire the book anonymously by paying cash, which is the way I always buy books. I never use a credit card.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bill Gates</string>
+		<key>quote</key>
+		<string>It's fine to celebrate success but it is more important to heed the lessons of failure.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Omar N. Bradley</string>
+		<key>quote</key>
+		<string>Bravery is the capacity to perform properly even when scared half to death.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>John Wayne</string>
+		<key>quote</key>
+		<string>Courage is being scared to death and saddling up anyway.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Angela Davis</string>
+		<key>quote</key>
+		<string>We have to talk about liberating minds as well as liberating society.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Dwight D. Eisenhower</string>
+		<key>quote</key>
+		<string>A people that values its privileges above its principles soon loses both.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>E. B. White</string>
+		<key>quote</key>
+		<string>Genius is more often found in a cracked pot than in a whole one.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Woodrow Wilson</string>
+		<key>quote</key>
+		<string>I not only use all the brains that I have, but all that I can borrow.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Salvador Dali</string>
+		<key>quote</key>
+		<string>Intelligence without ambition is a bird without wings.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ann Landers</string>
+		<key>quote</key>
+		<string>People who drink to drown their sorrow should be told that sorrow knows how to swim.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Confucius</string>
+		<key>quote</key>
+		<string>We should feel sorrow, but not sink under its oppression.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>William Shakespeare</string>
+		<key>quote</key>
+		<string>When sorrows come, they come not single spies, but in battalions.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Peter Drucker</string>
+		<key>quote</key>
+		<string>The most important thing in communication is hearing what isn't said.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Dr. Seuss</string>
+		<key>quote</key>
+		<string>A person's a person, no matter how small.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Leonardo da Vinci</string>
+		<key>quote</key>
+		<string>While I thought that I was learning how to live, I have been learning how to die.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Steve Jobs</string>
+		<key>quote</key>
+		<string>Things don't have to change the world to be important.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>George Bernard Shaw</string>
+		<key>quote</key>
+		<string>We are made wise not by the recollection of our past, but by the responsibility for our future.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Robert Frost</string>
+		<key>quote</key>
+		<string>Forgive me my nonsense, as I also forgive the nonsense of those that think they talk sense.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Marcus Tullius Cicero</string>
+		<key>quote</key>
+		<string>The higher we are placed, the more humbly we should walk.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Rabindranath Tagore</string>
+		<key>quote</key>
+		<string>Everything comes to us that belongs to us if we create the capacity to receive it.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Judy Garland</string>
+		<key>quote</key>
+		<string>Always be a first-rate version of yourself, instead of a second-rate version of somebody else.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Confucius</string>
+		<key>quote</key>
+		<string>The strength of a nation derives from the integrity of the home.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bernard Williams</string>
+		<key>quote</key>
+		<string>There is no psychiatrist in the world like a puppy licking your face.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>George Orwell</string>
+		<key>quote</key>
+		<string>Freedom is the right to tell people what they do not want to hear.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>George Washington</string>
+		<key>quote</key>
+		<string>If the freedom of speech is taken away then dumb and silent we may be led, like sheep to the slaughter.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Johann Wolfgang von Goethe</string>
+		<key>quote</key>
+		<string>Age merely shows what children we remain.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Lin Yutang</string>
+		<key>quote</key>
+		<string>No one realizes how beautiful it is to travel until he comes home and rests his head on his old, familiar pillow.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Mahatma Gandhi</string>
+		<key>quote</key>
+		<string>Strength does not come from physical capacity. It comes from an indomitable will.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Saint Augustine</string>
+		<key>quote</key>
+		<string>The world is a book, and those who do not travel read only a page.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Lewis B. Smedes</string>
+		<key>quote</key>
+		<string>It takes one person to forgive, it takes two people to be reunited.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Eric Sevareid</string>
+		<key>quote</key>
+		<string>Better to trust the man who is frequently in error than the one who is never in doubt.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Albert Einstein</string>
+		<key>quote</key>
+		<string>Whoever is careless with the truth in small matters cannot be trusted with important matters.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>William Arthur Ward</string>
+		<key>quote</key>
+		<string>Feeling gratitude and not expressing it is like wrapping a present and not giving it.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Gloria Estefan</string>
+		<key>quote</key>
+		<string>The sad truth is that opportunity doesn't knock twice.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Franz Schubert</string>
+		<key>quote</key>
+		<string>Nobody understands another's sorrow, and nobody another's joy.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Leo Buscaglia</string>
+		<key>quote</key>
+		<string>Worry never robs tomorrow of its sorrow, it only saps today of its joy.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bill Maher</string>
+		<key>quote</key>
+		<string>Suicide is man's way of telling God, 'You can't fire me - I quit.'</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Emil Zatopek</string>
+		<key>quote</key>
+		<string>A runner must run with dreams in his heart, not money in his pocket.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ludwig Wittgenstein</string>
+		<key>quote</key>
+		<string>The human body is the best picture of the human soul.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>George Canning</string>
+		<key>quote</key>
+		<string>Indecision and delays are the parents of failure.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Paul Sweeney</string>
+		<key>quote</key>
+		<string>True success is overcoming the fear of being unsuccessful.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Stevie Wonder</string>
+		<key>quote</key>
+		<string>Ability may get you to the top, but it takes character to keep you there.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Stevie Wonder</string>
+		<key>quote</key>
+		<string>Just because a man lacks the use of his eyes doesn't mean he lacks vision.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Charles R. Swindoll</string>
+		<key>quote</key>
+		<string>Each day of our lives we make deposits in the memory banks of our children.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Frederick Douglass</string>
+		<key>quote</key>
+		<string>It is easier to build strong children than to repair broken men.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bruce Lee</string>
+		<key>quote</key>
+		<string>Mistakes are always forgivable, if one has the courage to admit them.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ronald Reagan</string>
+		<key>quote</key>
+		<string>All great change in America begins at the dinner table.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Andy Warhol</string>
+		<key>quote</key>
+		<string>They always say time changes things, but you actually have to change them yourself.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Wayne Dyer</string>
+		<key>quote</key>
+		<string>If you change the way you look at things, the things you look at change.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Mahatma Gandhi</string>
+		<key>quote</key>
+		<string>You must be the change you wish to see in the world.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Rabindranath Tagore</string>
+		<key>quote</key>
+		<string>By plucking her petals, you do not gather the beauty of the flower.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Pablo Neruda</string>
+		<key>quote</key>
+		<string>You can cut all the flowers but you cannot keep spring from coming.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Greek Proverb</string>
+		<key>quote</key>
+		<string>A society grows great when old men plant trees whose shade they know they shall never sit in.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>John Major</string>
+		<key>quote</key>
+		<string>Recovery begins from the darkest moment.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Auguste Rodin</string>
+		<key>quote</key>
+		<string>Nothing is a waste of time if you use the experience wisely.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>John W. Gardner</string>
+		<key>quote</key>
+		<string>Life is the art of drawing without an eraser.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Immanuel Kant</string>
+		<key>quote</key>
+		<string>Experience without theory is blind, but theory without experience is mere intellectual play.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Benjamin Franklin</string>
+		<key>quote</key>
+		<string>A house is not a home unless it contains food and fire for the mind as well as the body.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Charles Dickens</string>
+		<key>quote</key>
+		<string>Charity begins at home, and justice begins next door.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ernest Hemingway</string>
+		<key>quote</key>
+		<string>We are all broken, that’s how the light gets in.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Neil Degrasse Tyson</string>
+		<key>quote</key>
+		<string>When Students cheat on exams it's because our School System values grades more than Students value learning.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>George Burns</string>
+		<key>quote</key>
+		<string>You can't help getting older, but you don't have to get old.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Stanislaw Jerzy Lec</string>
+		<key>quote</key>
+		<string>Youth is the gift of nature, but age is a work of art.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jean-Paul Sartre</string>
+		<key>quote</key>
+		<string>If you are lonely when you're alone, you are in bad company.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>George S. Patton</string>
+		<key>quote</key>
+		<string>If you tell people where to go, but not how to get there, you'll be amazed at the results.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Noam Chomsky</string>
+		<key>quote</key>
+		<string>If there was an observer on Mars, they would probably be amazed that we have survived this long.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Tom Ford</string>
+		<key>quote</key>
+		<string>When the youth of America gets together, amazing things happen.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ralph Waldo Emerson</string>
+		<key>quote</key>
+		<string>For every minute you remain angry, you give up sixty seconds of peace of mind.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bob Marley</string>
+		<key>quote</key>
+		<string>If you get down and quarrel everyday, you're saying prayers to the devil, I say.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Plato</string>
+		<key>quote</key>
+		<string>There are two things a person should never be angry at, what they can help, and what they cannot.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Joseph Joubert</string>
+		<key>quote</key>
+		<string>The best remedy for a short temper is a long walk.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jim Rohn</string>
+		<key>quote</key>
+		<string>Whatever good things we build end up building us.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Louis Sullivan</string>
+		<key>quote</key>
+		<string>Form follows function.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henry David Thoreau</string>
+		<key>quote</key>
+		<string>This world is but a canvas to our imagination.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Michelangelo</string>
+		<key>quote</key>
+		<string>The true work of art is but a shadow of the divine perfection.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>John C. Maxwell</string>
+		<key>quote</key>
+		<string>People may hear your words, but they feel your attitude.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Hans Selye</string>
+		<key>quote</key>
+		<string>Adopting the right attitude can convert a negative stress into a positive one.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Francis Bacon</string>
+		<key>quote</key>
+		<string>The best part of beauty is that which no picture can express.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Priscilla Presley</string>
+		<key>quote</key>
+		<string>Inner beauty should be the most important part of improving one's self.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Anne Frank</string>
+		<key>quote</key>
+		<string>I don't think of all the misery but of the beauty that still remains.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>David Hume</string>
+		<key>quote</key>
+		<string>Beauty in things exists in the mind which contemplates them.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Steve Prefontaine</string>
+		<key>quote</key>
+		<string>To give anything less than your best, is to sacrifice the gift.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Aldous Huxley</string>
+		<key>quote</key>
+		<string>Beauty is worse than wine, it intoxicates both the holder and beholder.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Eli Khamarov</string>
+		<key>quote</key>
+		<string>The best things in life are unexpected - because there were no expectations.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Eddie Vedder</string>
+		<key>quote</key>
+		<string>The best revenge is to live on and prove yourself.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Carl Jung</string>
+		<key>quote</key>
+		<string>Knowing your own darkness is the best method for dealing with the darknesses of other people.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>William Barclay</string>
+		<key>quote</key>
+		<string>There are two great days in a person's life - the day we are born and the day we discover why.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>George Meredith</string>
+		<key>quote</key>
+		<string>Don't just count your years, make your years count.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>George Harrison</string>
+		<key>quote</key>
+		<string>All the world is birthday cake, so take a piece, but not too much.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Winston Churchill</string>
+		<key>quote</key>
+		<string>We make a living by what we get, but we make a life by what we give.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Carl Sagan</string>
+		<key>quote</key>
+		<string>Somewhere, something incredible is waiting to be known.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>M. C. Escher</string>
+		<key>quote</key>
+		<string>We adore chaos because we love to produce order.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Thomas Browne</string>
+		<key>quote</key>
+		<string>Rough diamonds may sometimes be mistaken for worthless pebbles.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Mark Twain</string>
+		<key>quote</key>
+		<string>Whenever you find yourself on the side of the majority, it is time to pause and reflect.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henry Ford</string>
+		<key>quote</key>
+		<string>A business that makes nothing but money is a poor business.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Thomas A. Edison</string>
+		<key>quote</key>
+		<string>Just because something doesn't do what you planned it to do doesn't mean it's useless.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>IMPORTANT!! THIS ENTRY MUST BE LAST</string>
+		<key>quote</key>
+		<string>This quote will not show. Serves as a filler for our shuffle code. MAKE SURE THIS IS THE LAST ENTRY</string>
+	</dict>
+</array>
+</plist>

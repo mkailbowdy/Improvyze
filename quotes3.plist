@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>author</key>
+		<string>Tim Berners-Lee</string>
+		<key>quote</key>
+		<string>You affect the world by what you browse.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Louise J. Kaplan</string>
+		<key>quote</key>
+		<string>Adolescence is the conjugator of childhood and adulthood.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Flip Wilson</string>
+		<key>quote</key>
+		<string>You can't expect to hit the jackpot if you don't put a few nickels in the machine.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Desiderius Erasmus</string>
+		<key>quote</key>
+		<string>It is the chiefest point of happiness that a man is willing to be what he is.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jean Ingelow</string>
+		<key>quote</key>
+		<string>When sparrows build and the leaves break forth, My old sorrow wakes and cries.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Claude Debussy</string>
+		<key>quote</key>
+		<string>Art is the most beautiful of all lies.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Vernon Howard</string>
+		<key>quote</key>
+		<string>You have succeeded in life when all you really want is only what you really need.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jean-Jacques Rousseau</string>
+		<key>quote</key>
+		<string>People who know little are usually great talkers, while men who know much say little.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Eric Hoffer</string>
+		<key>quote</key>
+		<string>The hardest arithmetic to master is that which enables us to count our blessings.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henry Ward Beecher</string>
+		<key>quote</key>
+		<string>A proud man is seldom a grateful man, for he never thinks he gets as much as he deserves.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Nathaniel Hawthorne</string>
+		<key>quote</key>
+		<string>Time flies over us, but leaves its shadow behind.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Coco Chanel</string>
+		<key>quote</key>
+		<string>Don't spend time beating on a wall, hoping to transform it into a door.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Andrew Ryan</string>
+		<key>quote</key>
+		<string>We all make choices, but in the end our choices make us.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Arnold J. Toynbee</string>
+		<key>quote</key>
+		<string>The supreme accomplishment is to blur the line between work and play.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>John Locke</string>
+		<key>quote</key>
+		<string>All wealth is the product of labor.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Grover Cleveland</string>
+		<key>quote</key>
+		<string>Honor lies in honest toil.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Khalil Gibran</string>
+		<key>quote</key>
+		<string>A little knowledge that acts is worth infinitely more than much knowledge that is idle.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Sylvia Plath</string>
+		<key>quote</key>
+		<string>Imagination is more important than knowledge.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Leo Tolstoy</string>
+		<key>quote</key>
+		<string>The two most powerful warriors are patience and time.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jean-Paul Sartre</string>
+		<key>quote</key>
+		<string>When the rich wage war, it's the poor who die.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Carly Simon</string>
+		<key>quote</key>
+		<string>A really strong woman accepts the war she went through and is ennobled by her scars.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Mao Zedong</string>
+		<key>quote</key>
+		<string>Politics is war without bloodshed while war is politics with bloodshed.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>H. L. Mencken</string>
+		<key>quote</key>
+		<string>In war the heroes always outnumber the soldiers ten to one.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Swami Vivekananda</string>
+		<key>quote</key>
+		<string>Truth can be stated in a thousand different ways, yet each one can be true.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Arthur Conan Doyle</string>
+		<key>quote</key>
+		<string>There is nothing more deceptive than an obvious fact.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Charles Bukowski</string>
+		<key>quote</key>
+		<string>Genius might be the ability to say a profound thing in a simple way.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Sigmund Freud</string>
+		<key>quote</key>
+		<string>Dreams are often most profound when they seem the most crazy.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Albert Camus</string>
+		<key>quote</key>
+		<string>Real nobility is based on scorn, courage, and profound indifference.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ayn Rand</string>
+		<key>quote</key>
+		<string>A creative man is motivated by the desire to achieve, not by the desire to beat others.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>James Cash Penney</string>
+		<key>quote</key>
+		<string>As a rule, we find what we look for; we achieve what we get ready for.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Michael Kors</string>
+		<key>quote</key>
+		<string>Learn to invest in the best quality you can afford and wear pieces in different ways.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Tertullian</string>
+		<key>quote</key>
+		<string>You cannot parcel out freedom in pieces because freedom is all or nothing.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Walt Whitman</string>
+		<key>quote</key>
+		<string>Simplicity is the glory of expression.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Charles Spurgeon</string>
+		<key>quote</key>
+		<string>A lie can travel half way around the world while the truth is putting on its shoes.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Alfred Lord Tennyson</string>
+		<key>quote</key>
+		<string>A smile abroad is often a scowl at home.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ronald Reagan</string>
+		<key>quote</key>
+		<string>We can not play innocents abroad in a world that is not innocent.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Anthony Trollope</string>
+		<key>quote</key>
+		<string>No man thinks there is much ado about nothing when the ado is about himself.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>H. Jackson Brown, Jr.</string>
+		<key>quote</key>
+		<string>Remember that children, marriages, and flower gardens reflect the kind of care they get.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Warren Cuccurullo</string>
+		<key>quote</key>
+		<string>The turning point really is just knowing you're an imbecile.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Noam Chomsky</string>
+		<key>quote</key>
+		<string>States are not moral agents, people are, and can impose moral standards on powerful institutions.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Abbie Hoffman</string>
+		<key>quote</key>
+		<string>Never impose your language on people you wish to reach.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ernest Hemingway</string>
+		<key>quote</key>
+		<string>A man can be destroyed but not defeated.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jane Austen</string>
+		<key>quote</key>
+		<string>Friendship is certainly the finest balm for the pangs of disappointed love.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Pierre Bonnard</string>
+		<key>quote</key>
+		<string>Work on the accent, it will enliven the whole.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ralph Waldo Emerson</string>
+		<key>quote</key>
+		<string>If the stars should appear but one night every thousand years how man would marvel and stare.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Thomas A. Edison</string>
+		<key>quote</key>
+		<string>The chief function of the body is to carry the brain around.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Joseph Campbell</string>
+		<key>quote</key>
+		<string>We must let go of the life we have planned, so as to accept the one that is waiting for us.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henry Austin Dobson</string>
+		<key>quote</key>
+		<string>Love comes unseen; we only see it go.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Arthur Erickson</string>
+		<key>quote</key>
+		<string>Vitality is radiated from exceptional art and architecture.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Louis XIV</string>
+		<key>quote</key>
+		<string>There is little that can withstand a man who can conquer himself.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Lucius Annaeus Seneca</string>
+		<key>quote</key>
+		<string>While we are postponing, life speeds by.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Paul Gauguin</string>
+		<key>quote</key>
+		<string>I shut my eyes in order to see.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Robert Wilson Lynd</string>
+		<key>quote</key>
+		<string>Most human beings are quite likeable if you do not see too much of them.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Oliver Cromwell</string>
+		<key>quote</key>
+		<string>He who stops being better stops being good.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Saint Francis de Sales</string>
+		<key>quote</key>
+		<string>A quarrel between friends, when made up, adds a new tie to friendship.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Pablo Neruda</string>
+		<key>quote</key>
+		<string>You can cut all the flowers but you cannot keep spring from coming.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Voltaire</string>
+		<key>quote</key>
+		<string>Think for yourselves and let others enjoy the privilege to do so, too.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Elizabeth Kenny</string>
+		<key>quote</key>
+		<string>It's better to be a lion for a day than a sheep all your life.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>H. L. Mencken</string>
+		<key>quote</key>
+		<string>Democracy is the art and science of running the circus from the monkey cage.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Anais Nin</string>
+		<key>quote</key>
+		<string>Life shrinks or expands in proportion to one's courage.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Aristotle</string>
+		<key>quote</key>
+		<string>Quality is not an act, it is a habit.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Arthur Conan Doyle</string>
+		<key>quote</key>
+		<string>Any truth is better than indefinite doubt.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Zhuangzi</string>
+		<key>quote</key>
+		<string>Life comes from the earth and life returns to the earth.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Tallulah Bankhead</string>
+		<key>quote</key>
+		<string>If I had to live my life again, I'd make the same mistakes, only sooner.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Cavett Robert</string>
+		<key>quote</key>
+		<string>If you don't think every day is a good day, just try missing one.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Saul Bellow</string>
+		<key>quote</key>
+		<string>A fool can throw a stone in a pond that 100 wise men can not get out.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henry Ward Beecher</string>
+		<key>quote</key>
+		<string>Of all the music that reached farthest into heaven, it is the beating of a loving heart.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bertrand Russell</string>
+		<key>quote</key>
+		<string>There is much pleasure to be gained from useless knowledge.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>William Camden</string>
+		<key>quote</key>
+		<string>The sea hath fish for every man.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Keith Miller</string>
+		<key>quote</key>
+		<string>There never was a social change in America without angry people at the heart.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Josh Billings</string>
+		<key>quote</key>
+		<string>The best time for you to hold your tongue is the time you feel you must say something or bust.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henry Van Dyke</string>
+		<key>quote</key>
+		<string>Culture is the habit of being pleased with the best and knowing why.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Logan Pearsall Smith</string>
+		<key>quote</key>
+		<string>There are few sorrows, however poignant, in which a good income is of no avail.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>James Larkin</string>
+		<key>quote</key>
+		<string>There must be freedom for all to live, to think, to worship, no book, no avenue must be closed.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>E. L. Doctorow</string>
+		<key>quote</key>
+		<string>Like art and politics, gangsterism is a very important avenue of assimilation into society.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Eddie Rickenbacker</string>
+		<key>quote</key>
+		<string>Aviation is proof that given, the will, we have the capacity to achieve the impossible.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Robert Frost</string>
+		<key>quote</key>
+		<string>The greatest thing in family life is to take a hint when a hint is intended-and not to take a hint when a hint isn't intended.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ray Kroc</string>
+		<key>quote</key>
+		<string>You're only as good as the people you hire.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Horace</string>
+		<key>quote</key>
+		<string>Lawyers are men who hire out their words and anger.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Martin Luther King, Jr.</string>
+		<key>quote</key>
+		<string>We must accept finite disappointment, but never lose infinite hope.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Friedrich Nietzsche</string>
+		<key>quote</key>
+		<string>Hope in reality is the worst of all evils because it prolongs the torments of man.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Confucius</string>
+		<key>quote</key>
+		<string>It does not matter how slowly you go as long as you do not stop.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>George S. Patton</string>
+		<key>quote</key>
+		<string>Success is how high you bounce when you hit bottom.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Carl Rogers</string>
+		<key>quote</key>
+		<string>The only person who is educated is the one who has learned how to learn and change.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>T. S. Eliot</string>
+		<key>quote</key>
+		<string>Only those who will risk going too far can possibly find out how far one can go.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Anne Frank</string>
+		<key>quote</key>
+		<string>How wonderful it is that nobody need wait a single moment before starting to improve the world.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Richie Benaud</string>
+		<key>quote</key>
+		<string>The slow-motion replay doesn't show how fast the ball was really travelling.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ray Bradbury</string>
+		<key>quote</key>
+		<string>Jump, and you will find out how to unfold your wings as you fall.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Theodore Roosevelt</string>
+		<key>quote</key>
+		<string>Nobody cares how much you know, until they know how much you care.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Friedrich Nietzsche</string>
+		<key>quote</key>
+		<string>Those who cannot understand how to put their thoughts on ice should not enter into the heat of debate.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Michael Jordan</string>
+		<key>quote</key>
+		<string>I've failed over and over and over again in my life and that is why I succeed.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henry Ford</string>
+		<key>quote</key>
+		<string>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Maya Angelou</string>
+		<key>quote</key>
+		<string>Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Lord Acton</string>
+		<key>quote</key>
+		<string>History is not a burden on the memory but an illumination of the soul.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Vladimir Nabokov</string>
+		<key>quote</key>
+		<string>Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Publius Flavius Vegetius Renatus</string>
+		<key>quote</key>
+		<string>Valor is superior to number.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Alan Rickman</string>
+		<key>quote</key>
+		<string>You can lull the paying customers as long as they get slapped.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Carl Sagan</string>
+		<key>quote</key>
+		<string>If you wish to make an apple pie from scratch, you must first invent the universe.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Prince</string>
+		<key>quote</key>
+		<string>Despite everything, no one can dictate who you are to other people.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>IMPORTANT!! THIS ENTRY MUST BE LAST</string>
+		<key>quote</key>
+		<string>This quote will not show. Serves as a filler for our shuffle code. MAKE SURE THIS IS THE LAST ENTRY</string>
+	</dict>
+	
+</array>
+</plist>

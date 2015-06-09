@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>author</key>
+		<string>Tim Berners-Lee</string>
+		<key>quote</key>
+		<string>You affect the world by what you browse.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Louise J. Kaplan</string>
+		<key>quote</key>
+		<string>Adolescence is the conjugator of childhood and adulthood.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Flip Wilson</string>
+		<key>quote</key>
+		<string>You can't expect to hit the jackpot if you don't put a few nickels in the machine.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Desiderius Erasmus</string>
+		<key>quote</key>
+		<string>It is the chiefest point of happiness that a man is willing to be what he is.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jean Ingelow</string>
+		<key>quote</key>
+		<string>When sparrows build and the leaves break forth, My old sorrow wakes and cries.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Claude Debussy</string>
+		<key>quote</key>
+		<string>Art is the most beautiful of all lies.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Vernon Howard</string>
+		<key>quote</key>
+		<string>You have succeeded in life when all you really want is only what you really need.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jean-Jacques Rousseau</string>
+		<key>quote</key>
+		<string>People who know little are usually great talkers, while men who know much say little.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Eric Hoffer</string>
+		<key>quote</key>
+		<string>The hardest arithmetic to master is that which enables us to count our blessings.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henry Ward Beecher</string>
+		<key>quote</key>
+		<string>A proud man is seldom a grateful man, for he never thinks he gets as much as he deserves.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Nathaniel Hawthorne</string>
+		<key>quote</key>
+		<string>Time flies over us, but leaves its shadow behind.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Coco Chanel</string>
+		<key>quote</key>
+		<string>Don't spend time beating on a wall, hoping to transform it into a door.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>IMPORTANT!! THIS ENTRY MUST BE LAST</string>
+		<key>quote</key>
+		<string>This quote will not show. Serves as a filler for our shuffle code. MAKE SURE THIS IS THE LAST ENTRY</string>
+	</dict>
+</array>
+</plist>

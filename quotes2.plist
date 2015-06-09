@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>author</key>
+		<string>Edward Gibbon</string>
+		<key>quote</key>
+		<string>Our work is the presentation of our capabilities.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Robert Anthony</string>
+		<key>quote</key>
+		<string>When it becomes more difficult to suffer than to change... you will change.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Douglas Horton</string>
+		<key>quote</key>
+		<string>Change occurs in direct proportion to dissatisfaction, but dissatisfaction never changes.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Stephen Hawking</string>
+		<key>quote</key>
+		<string>Intelligence is the ability to adapt to change.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Robert Green Ingersoll</string>
+		<key>quote</key>
+		<string>The greatest test of courage on earth is to bear defeat without losing heart.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>J. K. Rowling</string>
+		<key>quote</key>
+		<string>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Nelson Mandela</string>
+		<key>quote</key>
+		<string>Courageous people do not fear forgiving, for the sake of peace.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Amelia Earhart</string>
+		<key>quote</key>
+		<string>Courage is the price that life exacts for granting peace.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Walt Disney</string>
+		<key>quote</key>
+		<string>All our dreams can come true, if we have the courage to pursue them.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>A. P. J. Abdul Kalam</string>
+		<key>quote</key>
+		<string>You have to dream before your dreams can come true.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Aristotle</string>
+		<key>quote</key>
+		<string>It is the mark of an educated mind to be able to entertain a thought without accepting it.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>James Inhofe</string>
+		<key>quote</key>
+		<string>Much of the debate over global warming is predicated on fear, rather than science.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>J. K. Rowling</string>
+		<key>quote</key>
+		<string>If you want to see the true measure of a man, watch how he treats his inferiors, not his equals.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>George Orwell</string>
+		<key>quote</key>
+		<string>All animals are equal, but some animals are more equal than others.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henry Miller</string>
+		<key>quote</key>
+		<string>All growth is a leap in the dark, a spontaneous unpremeditated act without benefit of experience.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Benjamin Disraeli</string>
+		<key>quote</key>
+		<string>Experience is the child of thought, and thought is the child of action.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Edwin Land</string>
+		<key>quote</key>
+		<string>An essential aspect of creativity is not being afraid to fail.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>John Wooden</string>
+		<key>quote</key>
+		<string>Failure is not fatal, but failure to change might be.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Elbert Hubbard</string>
+		<key>quote</key>
+		<string>There is no failure except in no longer trying.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Amos Bronson Alcott</string>
+		<key>quote</key>
+		<string>We climb to heaven most often on the ruins of our cherished plans, finding our failures were successes.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Martin Luther King, Jr.</string>
+		<key>quote</key>
+		<string>Faith is taking the first step even when you don't see the whole staircase.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>J. R. R. Tolkien</string>
+		<key>quote</key>
+		<string>Faithless is he that says farewell when the road darkens.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Princess Diana</string>
+		<key>quote</key>
+		<string>Family is the most important thing in the world.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Corrie Ten Boom</string>
+		<key>quote</key>
+		<string>Memories are the key not to the past, but to the future.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Mike Murdock</string>
+		<key>quote</key>
+		<string>The secret of your future is hidden in your daily routine.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bill Cosby</string>
+		<key>quote</key>
+		<string>The past is a ghost, the future a dream, and all we ever have is now.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Christopher Morley</string>
+		<key>quote</key>
+		<string>There are three ingredients in the good life: learning, earning and yearning.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Will Rogers</string>
+		<key>quote</key>
+		<string>Good judgment comes from experience, and a lot of that comes from bad judgment.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jane Austen</string>
+		<key>quote</key>
+		<string>Nobody minds having what is too good for them.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>William Shakespeare</string>
+		<key>quote</key>
+		<string>Some are born great, some achieve greatness, and some have greatness thrust upon them.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>John F. Kennedy</string>
+		<key>quote</key>
+		<string>Those who dare to fail miserably can achieve greatly.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Charles de Montesquieu</string>
+		<key>quote</key>
+		<string>To become truly great, one has to stand with people, not above them.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Horace Mann</string>
+		<key>quote</key>
+		<string>Seek not greatness, but seek truth and you will find both.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Benjamin Franklin</string>
+		<key>quote</key>
+		<string>Early to bed and early to rise makes a man healthy, wealthy and wise.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Robin Wright</string>
+		<key>quote</key>
+		<string>If you're happy, if you're feeling good, then nothing else matters.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>George Santayana</string>
+		<key>quote</key>
+		<string>Those who do not remember the past are condemned to repeat it.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Lord Acton</string>
+		<key>quote</key>
+		<string>History is not a burden on the memory but an illumination of the soul.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Friedrich Nietzsche</string>
+		<key>quote</key>
+		<string>Hope in reality is the worst of all evils because it prolongs the torments of man.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ivan Illich</string>
+		<key>quote</key>
+		<string>We must rediscover the distinction between hope and expectation.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Magic Johnson</string>
+		<key>quote</key>
+		<string>All kids need is a little help, a little hope and somebody who believes in them.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Allen Klein</string>
+		<key>quote</key>
+		<string>Humor does not diminish the pain - it makes the space around it get bigger.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Mark Twain</string>
+		<key>quote</key>
+		<string>You can't depend on your eyes when your imagination is out of focus.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Muhammad Ali</string>
+		<key>quote</key>
+		<string>The man who has no imagination has no wings.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Orison Swett Marden</string>
+		<key>quote</key>
+		<string>All men who have achieved great things have been great dreamers.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Anatole France</string>
+		<key>quote</key>
+		<string>To imagine is everything, to know is nothing at all.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Tupac Shakur</string>
+		<key>quote</key>
+		<string>The only thing that comes to a sleeping man is dreams.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bryant H. McGill</string>
+		<key>quote</key>
+		<string>One of the most sincere forms of respect is actually listening to what another has to say.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Albert Camus</string>
+		<key>quote</key>
+		<string>Nothing is more despicable than respect based on fear.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Voltaire</string>
+		<key>quote</key>
+		<string>To the living we owe respect, but to the dead we owe only the truth.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Marcel Proust</string>
+		<key>quote</key>
+		<string>We are healed from suffering only by experiencing it to the full.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Mason Cooley</string>
+		<key>quote</key>
+		<string>Only the broken-hearted know the truth about love.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jane Austen</string>
+		<key>quote</key>
+		<string>There is no charm equal to tenderness of heart.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Alex Grey</string>
+		<key>quote</key>
+		<string>In a society that tries to standardize thinking, individuality is not highly prized.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Lily Tomlin</string>
+		<key>quote</key>
+		<string>The trouble with the rat race is that even if you win, you're still a rat.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Robert Frost</string>
+		<key>quote</key>
+		<string>If society fits you comfortably enough, you call it freedom.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Will Rogers</string>
+		<key>quote</key>
+		<string>There's only one thing that can kill the movies, and that's education.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Horace</string>
+		<key>quote</key>
+		<string>It is the false shame of fools to try to conceal wounds that have not healed.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bruce Lee</string>
+		<key>quote</key>
+		<string>A wise man can learn more from a foolish question than a fool can learn from a wise answer.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Douglas Adams</string>
+		<key>quote</key>
+		<string>Flying is learning how to throw yourself at the ground and miss.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Marie von Ebner-Eschenbach</string>
+		<key>quote</key>
+		<string>In youth we learn; in age we understand.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Robert A. Heinlein</string>
+		<key>quote</key>
+		<string>I never learned from a man who agreed with me.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Claude Bernard</string>
+		<key>quote</key>
+		<string>It is what we know already that often prevents us from learning.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>H. G. Wells</string>
+		<key>quote</key>
+		<string>Advertising is legalized lying.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>William E. Gladstone</string>
+		<key>quote</key>
+		<string>Justice delayed is justice denied.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Honore de Balzac</string>
+		<key>quote</key>
+		<string>Laws are spider webs through which the big flies pass and the little ones get caught.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Lenny Bruce</string>
+		<key>quote</key>
+		<string>In the Halls of Justice the only justice is in the halls.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Franklin P. Jones</string>
+		<key>quote</key>
+		<string>Anybody who thinks talk is cheap should get some legal advice.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Buddha</string>
+		<key>quote</key>
+		<string>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Soren Kierkegaard</string>
+		<key>quote</key>
+		<string>Life is not a problem to be solved, but a reality to be experienced.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Tom Wilson</string>
+		<key>quote</key>
+		<string>Nobody got where they are today by living for tomorrow.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Charles Darwin</string>
+		<key>quote</key>
+		<string>A man who dares to waste one hour of time has not discovered the value of life.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Marsha Sinetar</string>
+		<key>quote</key>
+		<string>Do what you love and the money will follow.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Coco Chanel</string>
+		<key>quote</key>
+		<string>There are people who have money and people who are rich.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ralph Waldo Emerson</string>
+		<key>quote</key>
+		<string>A man in debt is so far a slave.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>David Geffen</string>
+		<key>quote</key>
+		<string>Anybody who thinks money will make you happy, hasn't got money.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bertolt Brecht</string>
+		<key>quote</key>
+		<string>Poverty makes you sad as well as wise.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Samuel Butler</string>
+		<key>quote</key>
+		<string>Friendship is like money, easier made than kept.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Richard Whately</string>
+		<key>quote</key>
+		<string>Lose an hour in the morning, and you will spend all day looking for it.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Dave Mustaine</string>
+		<key>quote</key>
+		<string>Moving on, is a simple thing, what it leaves behind is hard.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Lao Tzu</string>
+		<key>quote</key>
+		<string>Music in the soul can be heard by the universe.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Psy</string>
+		<key>quote</key>
+		<string>The world's most famous and popular language is music.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Richard M. Nixon</string>
+		<key>quote</key>
+		<string>If you want to make beautiful music, you must play the black and the white notes together.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Gerard De Nerval</string>
+		<key>quote</key>
+		<string>Every flower is a soul blossoming in nature.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Jules Renard</string>
+		<key>quote</key>
+		<string>On earth there is no heaven, but there are pieces of it.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Samuel Daniel</string>
+		<key>quote</key>
+		<string>The stars that have most glory have no rest.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>William Shakespeare</string>
+		<key>quote</key>
+		<string>One touch of nature makes the whole world kin.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>R. Buckminster Fuller</string>
+		<key>quote</key>
+		<string>There is nothing in a caterpillar that tells you it's going to be a butterfly.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Homer</string>
+		<key>quote</key>
+		<string>Wise to resolve, and patient to perform.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Thomas Huxley</string>
+		<key>quote</key>
+		<string>Patience and tenacity are worth more than twice their weight of cleverness.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bertrand Russell</string>
+		<key>quote</key>
+		<string>Patriotism is the willingness to kill and be killed for trivial reasons.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>William James</string>
+		<key>quote</key>
+		<string>Believe that life is worth living and your belief will help create the fact.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>John Lydon</string>
+		<key>quote</key>
+		<string>Sometimes the most positive thing you can be in a boring society is absolutely negative.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Napoleon Hill</string>
+		<key>quote</key>
+		<string>Strength and growth come only through continuous effort and struggle.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Paul Tournier</string>
+		<key>quote</key>
+		<string>The more refined and subtle our minds, the more vulnerable they are.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henry Miller</string>
+		<key>quote</key>
+		<string>Every moment is a golden one for him who has the vision to recognize it as such.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>C. S. Lewis</string>
+		<key>quote</key>
+		<string>The task of the modern educator is not to cut down jungles, but to irrigate deserts.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bodhidharma</string>
+		<key>quote</key>
+		<string>Only one person in a million becomes enlightened without a teacher's help.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Henny Youngman</string>
+		<key>quote</key>
+		<string>A self-taught man usually has a poor teacher and a worse student.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Gertrude Stein</string>
+		<key>quote</key>
+		<string>Everybody gets so much information all day long that they lose their common sense.</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>IMPORTANT!! THIS ENTRY MUST BE LAST</string>
+		<key>quote</key>
+		<string>This quote will not show. Serves as a filler for our shuffle code. MAKE SURE THIS IS THE LAST ENTRY</string>
+	</dict>
+</array>
+</plist>
